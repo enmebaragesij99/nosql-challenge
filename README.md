@@ -23,5 +23,4 @@ the removal of specific establishments and finally, the conversion of certain st
 and finally converting that data into DataFrames.
 
 
-Note; I did receive assistance from a LA in converting the 'RatingValue' strings into Integers and also did confirm in Part 3: Exploratory Analysis Question 2 that the 
-number of count documents result is 33 rather than the 34 stated in the rubric.
+
